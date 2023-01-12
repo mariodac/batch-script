@@ -1,0 +1,2 @@
+cat /etc/hostname
+read -t 5 -p "Press Enter"

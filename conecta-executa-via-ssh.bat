@@ -1,0 +1,1 @@
+D:\Downloads\putty.exe -ssh admin@192.168.3.2 -pw admin@12345 -m "D:\Documentos\GitHub\batch-script\comando.txt"
